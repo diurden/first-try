@@ -8,4 +8,21 @@
     <h1>¡Hola mundo!</h1>
     <p>Esta es mi primera página web hecha con HTML.</p>
 </body>
+
 </html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mi primera página</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: darkblue;
+        }
+        p {
+            color: #333333;
+        }
+    </style>
+</head>
